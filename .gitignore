@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+geckodriver.log
+
+.DS_Store
+Thumbs.db
